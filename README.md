@@ -58,4 +58,6 @@ This guide is provided solely for educational purposes. The information aims to 
 
 
 
-Update: url is active and operational
+
+
+Update: URL refresh
