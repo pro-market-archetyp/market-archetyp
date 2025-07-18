@@ -62,4 +62,6 @@ This guide is provided solely for educational purposes. The information aims to 
 
 
 
-Update:  14 July
+
+
+Update:  18.07.2025 link has been restored
